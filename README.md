@@ -15,7 +15,7 @@
 - ❓ Ask me about anything really, feel free to send me email: mahirprcanovic@gmail.com  
   
 
-- ⚡ Fun fact: I am 19 years old.  
+- ⚡ Fun fact: I am 20 years old.  
   
 
 <br/>  
