@@ -11,6 +11,7 @@ A third-year student of software engineering at the Polytechnic faculty of Zenic
 * 🧠  I'm learning NodeJS/ExpressJS/MongoDB
 * ⚡  I am a big fan of F1
 
+
 ### Skills
 
 <p align="left">
