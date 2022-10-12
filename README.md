@@ -8,7 +8,7 @@ A third-year student of software engineering at the Polytechnic faculty of Zenic
 
 * 🌍  I'm based in Travnik, Bosnia and Herzegovina
 * ✉️  You can contact me at [mahirprcanovic@gmail.com](mailto:mahirprcanovic@gmail.com)
-* 🧠  I'm learning NodeJS/ExpressJS/MongoDB
+* 🧠  I'm learning Angular/ASP Net Core
 * ⚡  I am a big fan of F1
 
 ### Skills
