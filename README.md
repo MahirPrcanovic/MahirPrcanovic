@@ -1,15 +1,11 @@
 Hi 👋 My name is Mahir
 ======================
 
-Web developer / Student
+Software Engineer
 -----------------------
 
-A third-year student of software engineering at the Polytechnic faculty of Zenica. Interested in web development and am currently teaching myself web development through various courses and project making.
-
-* 🌍  I'm based in Travnik, Bosnia and Herzegovina
-* ✉️  You can contact me at [mahirprcanovic@gmail.com](mailto:mahirprcanovic@gmail.com)
-* 🧠  I'm learning Angular/ASP Net Core
-* ⚡  I am a big fan of F1
+* 🌍  Travnik, Bosnia and Herzegovina
+* ✉️  [mahirprcanovic@gmail.com](mailto:mahirprcanovic@gmail.com)
 
 ### Skills
 
